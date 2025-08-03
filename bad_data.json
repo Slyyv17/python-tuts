@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "grades": [
+                85,
+                "invalid",
+                78
+            ]
+        },
+        {
+            "name": "Bob",
+            "grades": []
+        },
+        {
+            "name": "Charlie"
+        }
+    ]
+}

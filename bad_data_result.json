@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alice",
+        "grades": "Contains invalid grade(s)"
+    },
+    {
+        "name": "Bob",
+        "grades": "Grades are empty"
+    },
+    {
+        "name": "Charlie",
+        "grades": "Missing grades key"
+    }
+]

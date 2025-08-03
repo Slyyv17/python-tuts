@@ -1,0 +1,33 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "age": 20,
+            "grades": [
+                85,
+                92,
+                78
+            ],
+            "major": "CS"
+        },
+        {
+            "name": "Bob",
+            "age": 19,
+            "grades": [
+                90,
+                88,
+                95
+            ],
+            "major": "Math"
+        },
+        {
+            "name": "Eve",
+            "age": 21,
+            "grades": [
+                88,
+                90
+            ],
+            "major": "Physics"
+        }
+    ]
+}
